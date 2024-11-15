@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-dantas-laurentino-ab3975246)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipedantaslaurentino@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/290920743682965504)
-
+Outros
 
 # 📊Github Status
 [![Felipogdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipogdev&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
