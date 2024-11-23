@@ -1,6 +1,7 @@
 # Hi I'm Felipe! 👋
 👨🏻‍💻 Studying Software Engineer at Universidade Lusófona, Portugal <br/>
 💭 Currently Learning Algorithms and Data Structures in C++ <br/>
+📈 Intersted in ML
 
 ✉️ Reach me: felipedantaslaurentino@gmail.com | https://www.linkedin.com/in/felipe-dantas-laurentino-ab3975246/
 # 💻Tech Stack
