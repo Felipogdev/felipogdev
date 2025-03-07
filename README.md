@@ -3,7 +3,7 @@
 💭 Currently Learning Algorithms and Data Structures in C++ <br/>
 📈 Studying to be a Machine Learning Engineer
 
-✉️ Reach me: felipedantaslaurentinodev@gmail.com | https://www.linkedin.com/in/felipe-dantas-laurentino-ab3975246/
+✉️ Reach me: felipedantaslaurentinodev@gmail.com
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
